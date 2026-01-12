@@ -1,2 +1,2 @@
 # Cloud-Computing-Project-
-It is a Cloud Based File Storage Using Amazon S3.
+It is a Cloud Based File Storage Using Amazon S3. Amazon S3 (Simple Storage Service) is a highly scalable, durable, and secure object storage service widely used for cloud-based file storage. It stores data as objects within logical containers called buckets, which can be accessed from anywhere via the internet using the AWS Management Console, Command Line Interface (CLI), or SDKs. 
